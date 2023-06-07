@@ -1,6 +1,6 @@
 # This repository contains Telink Bluetooth® LE Multi Connection
 
-version SDK V4.0.1.0_Patch_0001
+version SDK telink_eagle_ble_sdk_V4.0.1.0-Patch
  
 The library is built using using zephyr-sdk-0.15.1
 
