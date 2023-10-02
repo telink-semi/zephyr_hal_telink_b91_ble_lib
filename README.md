@@ -1,13 +1,11 @@
 # This repository contains Telink Bluetooth® LE Multi Connection
 
-version SDK V4.0.1.0_Patch_0001
+version B91 SDK V4.0.1.1
+version B92 SDK V4.0.2.0(ER)
  
-The library is built using using zephyr-sdk-0.15.1
+The library is built using using zephyr-sdk-0.15.2
 
 ## Links
 
 [TLSR921x Series Wiki](http://wiki.telink-semi.cn/wiki/chip-series/TLSR921x-Series/)
-
-[Bluetooth® LE Multi Connection SDK](http://wiki.telink-semi.cn/tools_and_sdk/BLE/B91M_BLE_SDK.zip)
-
-[Telink BLE Multiple Connection SDK Developer Handbook](http://wiki.telink-semi.cn/doc/an/AN-22063000-E_Telink%20BLE%20Multiple%20Connection%20SDK%20Developer%20Handbook.pdf)
+[TLSR922x Series Wiki](http://wiki.telink-semi.cn/wiki/chip-series/TLSR922x-Series/)
